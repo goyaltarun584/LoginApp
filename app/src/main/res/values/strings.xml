@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="already_signed_in_log_string_app_name">Already signed in? Log @string/app_name</string>
+</resources>

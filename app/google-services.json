@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "608861970318",
+    "firebase_url": "https://loginapp-71ca7.firebaseio.com",
+    "project_id": "loginapp-71ca7",
+    "storage_bucket": "loginapp-71ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608861970318:android:d0f580794ce959ae",
+        "android_client_info": {
+          "package_name": "com.example.tarungoyal.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608861970318-rhl6nal23qpmor7tq25ulo9s9vmcsh2u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608861970318-rhl6nal23qpmor7tq25ulo9s9vmcsh2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxGJwZSKnKaQJoV3hf3H_Nb4rnarKa-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
